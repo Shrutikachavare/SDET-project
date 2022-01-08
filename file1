@@ -2,12 +2,10 @@ hello world!!!!
 
 change 1 - added to fix bug1.
 
-<<<<<<< HEAD
 change 2 added to fix bug2.
 
 change 3:-by team mate for CR2.
-=======
-change added to fix bug2.
 
-change :-WI3 for rebase
->>>>>>> 9df6ce5 (WI3:file 1 updated to add colon and new line for WI3)
+change 4:-WI3 for rebase.
+
+change 5:-for WI4 test stash - half done work
